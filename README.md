@@ -5,7 +5,7 @@ A lightweight window resizing tool based on AutoHotkey (AHK), supporting smooth 
 
 - **Executable Release File**: https://github.com/ranging-kiwi/Ctrl-Lazy-Windows/releases/download/v1.0/Lazy_Windows.exe
 
-- **Source Code**: https://github.com/ranging-kiwi/Ctrl-Lazy-Windows/blob/main/Windows%20Adjuster.ahk
+- **Source Code**: https://github.com/ranging-kiwi/Lazy-Windows/blob/main/Windows%20Adjuster.ahk
 
 ## Features
 
