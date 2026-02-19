@@ -22,39 +22,26 @@ A lightweight window resizing tool based on AutoHotkey (AHK), supporting smooth 
 ### Adjust Window Size (Based on Window Center)
 
 | Shortcut Key | Function |
-
 |--------------|--------------------|
-
 | Ctrl+Alt+↑ | Zoom Up on Window |
-
 | Ctrl+Alt+↓ | Shrink window down |
-
 Ctrl+Alt+→ | Zoom in window to the right |
-
 Ctrl+Alt+← | Shrink window to the left |
 
 ### Move Window Position
 
 | Shortcut Keys | Functions |
-
 |--------------|--------------------|
-
 | Ctrl+Alt+i | Move window up |
-
 | Ctrl+Alt+k | Move window down |
-
 | Ctrl+Alt+j | Move window to the left |
-
 | Ctrl+Alt+l | Move window to the right |
 
 ### Other Operations
 
 | Shortcut Keys | Functions |
-
 |--------------|--------------------|
-
 | Ctrl+Alt+Esc | Exit tool |
-
 | Shift+any shortcut key | Quick adjustment (step 64) |
 
 ## Parameter Explanation If you want to modify the adjustment step/speed, you can edit the following parameters in the source code:
