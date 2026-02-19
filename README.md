@@ -1,5 +1,87 @@
-# Ctrl-Lazy-Windows
-Use Keyboard to control the size and position of windows. 用键盘调整窗口的大小和位置
+# Windows Window Resizing Tool
+A lightweight window resizing tool based on AutoHotkey (AHK), supporting smooth resizing/positioning of windows by holding down keyboard shortcuts, offering precise and fluid operation.
+
+## Download
+
+- **Executable Release File**: https://github.com/ranging-kiwi/Ctrl-Lazy-Windows/releases/download/v1.0/Lazy_Windows.exe
+
+- **Source Code**: https://github.com/ranging-kiwi/Ctrl-Lazy-Windows/blob/main/Windows%20Adjuster.ahk
+
+## Features
+
+1. **Smooth Adjustment**: Hold down the shortcut key to continuously fine-tune the window size/position; release to stop.
+
+2. **Dual-Speed ​​Adjustment**: Normal speed/fast adjustment (switch with Shift key), balancing precision and efficiency.
+
+3. **Center-Based Resizing**: Resizes the window based on the window center to avoid offset.
+
+4. **Lightweight**: No installation required; runs as a single EXE file, consuming minimal system resources.
+
+## Shortcut Key Explanation
+
+### Adjust Window Size (Based on Window Center)
+
+| Shortcut Key | Function |
+
+|--------------|--------------------|
+
+| Ctrl+Alt+↑ | Zoom Up on Window |
+
+| Ctrl+Alt+↓ | Shrink window down |
+
+Ctrl+Alt+→ | Zoom in window to the right |
+
+Ctrl+Alt+← | Shrink window to the left |
+
+### Move Window Position
+
+| Shortcut Keys | Functions |
+
+|--------------|--------------------|
+
+| Ctrl+Alt+i | Move window up |
+
+| Ctrl+Alt+k | Move window down |
+
+| Ctrl+Alt+j | Move window to the left |
+
+| Ctrl+Alt+l | Move window to the right |
+
+### Other Operations
+
+| Shortcut Keys | Functions |
+
+|--------------|--------------------|
+
+| Ctrl+Alt+Esc | Exit tool |
+
+| Shift+any shortcut key | Quick adjustment (step 64) |
+
+## Parameter Explanation If you want to modify the adjustment step/speed, you can edit the following parameters in the source code:
+
+- `stretchStep := 16`: Normal adjustment step size (default 16 pixels)
+
+- `fastStep := 64`: Fast adjustment step size (default 64 pixels)
+
+- `stretchInterval := 20`: Adjustment interval (default 20 milliseconds, smaller values ​​result in smoother operation)
+
+## Compilation Notes
+
+- Dependency: AutoHotkey v2
+
+- Compilation tool: Ahk2Exe
+
+- Select the Base File corresponding to v2 during compilation (e.g., `v2.x.x U64 AutoHotkey64.exe`)
+
+## Notes
+
+1. The tool will use the `Ctrl+Alt` shortcut key. If it conflicts with other software, you can modify the shortcut key in the source code.
+
+2. Some windows with administrator privileges may not be adjustable. You need to run this tool as administrator.
+
+3. If falsely flagged by antivirus software, you can add it to the trusted list (open source tools contain no malicious code).
+
+
 # Windows窗口微调工具
 一个基于AutoHotkey (AHK) 编写的轻量级窗口调整工具，支持按住快捷键平滑调整窗口大小/位置，操作精准且流畅。
 
