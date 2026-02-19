@@ -1,5 +1,5 @@
 # Windows Window Resizing Tool
-A lightweight window resizing tool based on AutoHotkey (AHK), supporting smooth resizing/positioning of windows by holding down keyboard shortcuts, offering precise and fluid operation.
+A lightweight window resizing tool based on AutoHotkey (AHK), supporting smooth resizing/positioning of windows by holding down keyboard shortcuts, offering precise and fluid operation，designed specifically for obsessive-compulsive disorder。
 
 ## Download
 
@@ -70,7 +70,7 @@ Ctrl+Alt+← | Shrink window to the left |
 
 
 # Windows窗口微调工具
-一个基于AutoHotkey (AHK) 编写的轻量级窗口调整工具，支持按住快捷键平滑调整窗口大小/位置，操作精准且流畅。
+一个基于AutoHotkey (AHK) 编写的轻量级窗口调整工具，支持按住快捷键平滑调整窗口大小/位置，操作精准且流畅，专为强迫症打造
 
 ## 下载
 - **可执行文件release**：https://github.com/ranging-kiwi/Lazy-Windows/releases/download/v1.0/Lazy_Windows.exe
