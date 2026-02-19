@@ -3,7 +3,7 @@ Use Keyboard to control the size and position of windows. 用键盘调整窗口�
 # Windows窗口微调工具
 一个基于AutoHotkey (AHK) 编写的轻量级窗口调整工具，支持按住快捷键平滑调整窗口大小/位置，操作精准且流畅。
 
-## 📥 下载
+## 下载
 - **可执行文件release**：[WindowsWindowAdjuster.exe](https://github.com/ranging-kiwi/Ctrl-Lazy-Windows/releases/download/v1.0/WindowsAdjuster.exe)
 - **源代码**：[WindowsAdjuster.ahk](https://github.com/ranging-kiwi/Ctrl-Lazy-Windows/blob/main/WindowsAdjuster.ahk)
 
@@ -13,7 +13,7 @@ Use Keyboard to control the size and position of windows. 用键盘调整窗口�
 3. **居中缩放**：调整窗口大小时以窗口中心为基准，避免偏移
 4. **轻量化**：无需安装，单EXE文件运行，不占用系统资源
 
-## ⌨️ 快捷键说明
+## 快捷键说明
 ### 调整窗口大小（以窗口中心为基准）
 | 快捷键       | 功能               |
 |--------------|--------------------|
