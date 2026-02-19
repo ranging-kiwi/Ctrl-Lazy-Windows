@@ -4,7 +4,7 @@ Use Keyboard to control the size and position of windows. 用键盘调整窗口�
 一个基于AutoHotkey (AHK) 编写的轻量级窗口调整工具，支持按住快捷键平滑调整窗口大小/位置，操作精准且流畅。
 
 ## 下载
-- **可执行文件release**：[[LazyWindows.exe](https://github.com/ranging-kiwi/Ctrl-Lazy-Windows/releases/download/v1.0/LazyWindows.exe)]
+- **可执行文件release**：[[[LazyWindows.exe](https://github.com/ranging-kiwi/Ctrl-Lazy-Windows/releases/download/v1.0/LazyWindows.exe)]](https://github.com/ranging-kiwi/Ctrl-Lazy-Windows/releases/download/v1.0/Lazy_Windows.exe)
 - **源代码**：[[LazyWindows.ahk](https://github.com/ranging-kiwi/Ctrl-Lazy-Windows/blob/main/WindowsAdjuster.ahk)]
 
 ## 功能特点
