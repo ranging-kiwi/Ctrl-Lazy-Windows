@@ -3,7 +3,7 @@ A lightweight window resizing tool based on AutoHotkey (AHK), supporting smooth 
 
 ## Download
 
-- **Executable Release File**: https://github.com/ranging-kiwi/Ctrl-Lazy-Windows/releases/download/v1.0/Lazy_Windows.exe
+- **Executable Release File**: https://github.com/ranging-kiwi/Lazy-Windows/releases/download/v1.0/Lazy_Windows.exe
 
 - **Source Code**: https://github.com/ranging-kiwi/Lazy-Windows/blob/main/Windows%20Adjuster.ahk
 
@@ -73,8 +73,8 @@ Ctrl+Alt+← | Shrink window to the left |
 一个基于AutoHotkey (AHK) 编写的轻量级窗口调整工具，支持按住快捷键平滑调整窗口大小/位置，操作精准且流畅。
 
 ## 下载
-- **可执行文件release**：https://github.com/ranging-kiwi/Ctrl-Lazy-Windows/releases/download/v1.0/Lazy_Windows.exe
-- **源代码**：https://github.com/ranging-kiwi/Ctrl-Lazy-Windows/blob/main/Windows%20Adjuster.ahk
+- **可执行文件release**：https://github.com/ranging-kiwi/Lazy-Windows/releases/download/v1.0/Lazy_Windows.exe
+- **源代码**：https://github.com/ranging-kiwi/Lazy-Windows/blob/main/Windows%20Adjuster.ahk
 
 ## 功能特点
 1. **平滑调整**：按住快捷键可持续微调窗口大小/位置，松开即停止
